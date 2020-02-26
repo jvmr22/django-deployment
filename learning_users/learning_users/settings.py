@@ -28,7 +28,7 @@ SECRET_KEY = 'h&uasopu4cgcr46zo+_t1q2pr^igfggt1lqc6+2l$57t6q)l(%'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['jvmr22.pythonanywhere.com']
 
 
 # Application definition
